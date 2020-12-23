@@ -1,0 +1,16 @@
+POST http://localhost:80/api/item
+
+
+###
+GET http://localhost:80/api/item?id=99
+Accept: application/json
+
+###
+POST http://localhost:8080/newsletter
+Content-Type: application/json
+
+{"email":  "xxxx@asdfaasdfasdfasdfasssdfadf.de"}
+
+
+
+
